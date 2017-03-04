@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+
+gem 'ipaddr'
+gem 'net/ping'
+
+gemspec
